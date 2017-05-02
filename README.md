@@ -9,6 +9,12 @@
 
 ## Usage
 
+1. install package
+
+    ```
+    $ composer require hinaloe/laravel-line-notify
+    ```
+
 1. Add `\Hinaloe\LineNotify\LineNotifyServiceProvider` to `config/app.php` or like.
 
 1. Make notifable class (ex User Model entity)
